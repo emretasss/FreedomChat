@@ -15,3 +15,4 @@ Some of the Screenshots of this app :
 <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/one_dark.png" height ="600"> <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/two_dark.png" height ="600">
 <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/three_dark.png" height ="600">
 <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/four_dark.png" height ="600">
+ 
