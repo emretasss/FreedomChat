@@ -4,7 +4,7 @@
 Some of the Screenshots of this app :
 
 **Light Theme**
-
+ 
 
 <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/one_light.png" height ="600"> <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/two_light.png" height ="600">
 <img src="https://github.com/dsdsharma/FreedomChat/blob/main/screenshots/three_light.png" height ="600">
